@@ -18,7 +18,7 @@ The dataset provided in the directory `/data/` has been described in [_La tariff
 
 ## Disclaimer regarding the techniques used
 
-The techniques used has been asked by the teacher. I am aware that considering all the explanatory variables as qualitative and merging the modality in few levels based just on fitness on training set could cause overfitting and bad model predictiveness.
+The techniques used has been asked by the teacher. I am aware that considering all the explanatory variables as qualitative and merging the modalities in few levels based just on fitness on training set could cause overfitting and bad model predictiveness.
 
 The models could be significantly improved by using [Generalized Additive Models](https://en.wikipedia.org/wiki/Generalized_additive_model) (GAM) for the quantitative variables (such as policyholder's `age` and vehicle's `power`) and geospatial modeling techniques for location variables (such as policyholder's `province` of residence).
 
